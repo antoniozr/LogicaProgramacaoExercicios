@@ -1,5 +1,5 @@
 # 🧠Logica de Programacao Exercicios
-Este repositório contém uma coleção de exercícios de Lógica de Programação para aprimorar suas habilidades em algoritmos e pensamento computacional.
+Este repositório contém uma coleção de exercícios de Lógica de Programação
 
 🔗 Os exercícios foram retirados de uma postagem da página da DIO.me.
 
